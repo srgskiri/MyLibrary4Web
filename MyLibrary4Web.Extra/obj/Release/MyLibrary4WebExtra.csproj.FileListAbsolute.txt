@@ -1,5 +1,0 @@
-C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyLibrary4Web\MyLibrary4Web.Extra\bin\Release\MyLibrary4Web.Extra.dll
-C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyLibrary4Web\MyLibrary4Web.Extra\bin\Release\MyLibrary4Web.Extra.pdb
-C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyLibrary4Web\MyLibrary4Web.Extra\obj\Release\MyLibrary4WebExtra.csprojResolveAssemblyReference.cache
-C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyLibrary4Web\MyLibrary4Web.Extra\obj\Release\MyLibrary4Web.Extra.dll
-C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyLibrary4Web\MyLibrary4Web.Extra\obj\Release\MyLibrary4Web.Extra.pdb
