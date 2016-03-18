@@ -10,6 +10,7 @@ namespace MyLibrary4Web
     {
         public static string GetName()
         {
+
             return "Tekst van MyExoticLibrary4Web";
         }
 
