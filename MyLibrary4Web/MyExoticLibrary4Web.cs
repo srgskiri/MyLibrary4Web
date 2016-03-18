@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
 
 namespace MyLibrary4Web
 {
@@ -26,7 +22,7 @@ namespace MyLibrary4Web
 
         public static string GetNow()
         {
-            string now = DateTime.Now.ToString();
+            string now = System.DateTime.Now.ToString();
 
             return now;
         }
