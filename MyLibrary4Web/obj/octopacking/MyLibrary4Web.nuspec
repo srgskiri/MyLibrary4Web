@@ -1,0 +1,17 @@
+<package>
+  <metadata>
+    <id>MyLibrary4Web</id>
+    <version>1.0.0.0</version>
+    <authors>Srg</authors>
+    <owners>Srg</owners>
+    <licenseUrl>http://example.com</licenseUrl>
+    <projectUrl>http://example.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The MyLibrary4Web deployment package, built on 18/03/2016</description>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyLibrary4Web\MyLibrary4Web\bin\Release\MyLibrary4Web.dll" target="MyLibrary4Web.dll" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyLibrary4Web\MyLibrary4Web\bin\Release\MyLibrary4Web.pdb" target="MyLibrary4Web.pdb" />
+  </files>
+</package>

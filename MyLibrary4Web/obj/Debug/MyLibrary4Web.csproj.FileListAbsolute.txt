@@ -1,0 +1,5 @@
+C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyLibrary4Web\MyLibrary4Web\bin\Debug\MyLibrary4Web.dll
+C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyLibrary4Web\MyLibrary4Web\bin\Debug\MyLibrary4Web.pdb
+C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyLibrary4Web\MyLibrary4Web\obj\Debug\MyLibrary4Web.dll
+C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyLibrary4Web\MyLibrary4Web\obj\Debug\MyLibrary4Web.pdb
+C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyLibrary4Web\MyLibrary4Web\obj\Debug\MyLibrary4Web.csprojResolveAssemblyReference.cache

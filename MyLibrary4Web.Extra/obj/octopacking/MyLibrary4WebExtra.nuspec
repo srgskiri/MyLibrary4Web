@@ -1,0 +1,17 @@
+<package>
+  <metadata>
+    <id>MyLibrary4WebExtra</id>
+    <version>1.0.0.0</version>
+    <authors>Srg</authors>
+    <owners>Srg</owners>
+    <licenseUrl>http://example.com</licenseUrl>
+    <projectUrl>http://example.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The MyLibrary4WebExtra deployment package, built on 18/03/2016</description>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyLibrary4Web\MyLibrary4Web.Extra\bin\Release\MyLibrary4Web.Extra.dll" target="MyLibrary4Web.Extra.dll" />
+    <file src="C:\Users\Srg\Desktop\2015-2016\StageFlowNV\MyProjects\MyLibrary4Web\MyLibrary4Web.Extra\bin\Release\MyLibrary4Web.Extra.pdb" target="MyLibrary4Web.Extra.pdb" />
+  </files>
+</package>
