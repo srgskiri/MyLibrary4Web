@@ -24,6 +24,9 @@ namespace MyLibrary4Web
         {
             string now = System.DateTime.Now.ToString();
 
+
+
+
             return now;
         }
     }
